@@ -1,1 +1,2 @@
 # Fisica_Computacional_Rubiol_Garcia
+Tareas de Adan_Miguel
